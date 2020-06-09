@@ -64,8 +64,8 @@ label{
 	}
 a.shop{
 	display:inline-block;
-	float:left;
 	margin:9px 0 0 30px;
+	float: left;
 }
 .dwn{
 	position:absolute;
@@ -1935,9 +1935,10 @@ p.mail a:hover {
 		right: 16%;
 	}
 	.about-img {
-		float: left;
+		display: none;
+		/* float: left;
 		padding: 0;
-		width: 100%;
+		width: 100%; */
 	}
 	#about, #services, .gallery, .news, .friends-section, .contact {
 		padding: 2em 0;
