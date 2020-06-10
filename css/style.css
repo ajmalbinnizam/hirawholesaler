@@ -1640,9 +1640,10 @@ p.mail a:hover {
 		width: 57%;
 	}
 	.about-img {
-		float: left;
+		display: none;
+		/* float: left;
 		padding: 0;
-		width: 81%;
+		width: 81%; */
 	}
 	.about-top {
 		padding: 0;
