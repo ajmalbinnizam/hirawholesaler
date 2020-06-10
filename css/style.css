@@ -600,6 +600,7 @@ ul.social-icons li a{
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 1.25em;
+	text-shadow: 1px 1px 1px #000;
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
 }
@@ -906,6 +907,7 @@ p.pop {
     line-height: 1.9em;
 }
 .lightbox-target img:hover{
+	color: #004C79;
 }
 /* Styles the close link, adds the slide down transition */
 
@@ -1035,7 +1037,7 @@ p.your-para-wthree {
   color: #777;
   font-size: 0.9em;
 }
-.contact-grid input[type="text"],.contact-grid input[type="email"], .contact-grid textarea {
+.contact-grid input[type="text"],.contact-grid input[type="number"], .contact-grid textarea {
   width: 100%;
   padding:0.8em;
   margin:0.6em 0;
@@ -1090,7 +1092,7 @@ p.mail a:hover {
   -ms-transition: 0.5s all;
 }
 .send input[type="submit"]:hover {
-  background:# f16930;
+  background:#f16930;
 }
 
 /*--main-content--*/
