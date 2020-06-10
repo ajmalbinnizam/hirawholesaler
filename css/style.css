@@ -1882,12 +1882,12 @@ p.mail a:hover {
 	.callbacks_nav.next {
 		left: auto;
 		background-position: right top;
-		right: 105px;
+		right: 75px;
 	}
 	.callbacks_nav.prev {
 		right: auto;
 		background-position: left top;
-		left: 104px;
+		left: 75px;
 	}
 	.test img {
 		width: 22%;
@@ -1953,12 +1953,12 @@ p.mail a:hover {
 	.callbacks_nav.prev {
 		right: auto;
 		background-position: left top;
-		left: 76px;
+		left: 50px;
 	}
 	.callbacks_nav.next {
 		left: auto;
 		background-position: right top;
-		right: 75px;
+		right: 50px;
 	}
 	.para-wthree {
 		float: left;
@@ -2008,12 +2008,12 @@ p.mail a:hover {
 	.callbacks_nav.prev {
 		right: auto;
 		background-position: left top;
-		left: 76px;
+		left: 50px;
 	}
 	.callbacks_nav.next {
 		left: auto;
 		background-position: right top;
-		right: 75px;
+		right: 50px;
 	}
 	.para-wthree {
 		float: left;
