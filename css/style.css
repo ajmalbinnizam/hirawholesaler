@@ -1096,7 +1096,8 @@ p.mail a:hover {
 /*--main-content--*/
 .copyright-agileits {
     background-color:#f16930;
-    padding: 1em 1em;
+	padding: 2em 1em;
+    margin-top: 1em;
     text-align: center;
 }
 .copyright-agileits p {
