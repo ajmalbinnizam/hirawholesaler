@@ -62,10 +62,10 @@ ul.nav {
   background: none;
   border: none;
 }
-.nav > li:nth-child(1) > a,.nav > li:nth-child(5) > a,.nav > li:nth-child(6) > a,
+/* .nav > li:nth-child(1) > a,.nav > li:nth-child(5) > a,.nav > li:nth-child(6) > a,
 .nav > li:nth-child(7) > a{
 	background:none;
-}
+} */
 .nav > li:nth-child(1) > a:hover, .nav > li:nth-child(5) > a:hover, .nav > li:nth-child(6) > a:hover{
   color: #fff;
 }
